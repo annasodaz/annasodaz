@@ -1,6 +1,6 @@
 Hi, I’m a hyrax with background in architecture, multimedia and music
 - 🌱 I’m currently ending up cs50x so I'm in the early start, but I might be useful in design and some other parts of the projects as well SO 
-- 💞️ I’m looking to collaborate on a simple indie games
+- 💞️ I’m looking to collaborate on simple indie games
 - 📫 You can reach me in my personal webpage radyica.com
 
 <!---
